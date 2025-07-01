@@ -6,7 +6,7 @@
 
 #### My languages, syntax, and platforms
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=anaconda,autocad,bash,discord,figma,fortran,github,matlab,pycharm,py,r,vscode)](https://skillicons.dev)
 
 #### Data Science Projects:
 
