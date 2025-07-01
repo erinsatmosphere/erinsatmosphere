@@ -4,19 +4,10 @@
 🌎 Interested in data science for atmospheric, oceanographic, and environmental sciences<br>
 🐟 Passionate about climate change impacts on marine ecosystems<br>
 
-<h2>Data Science Projects:</h2>
+#### Data Science Projects:
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/erinsatmosphere/LABURL)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/erinsatmosphere/LABURL) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/erinsatmosphere/LABURL)
-  - [JWipe (Disk Wiping Utility)](https://github.com/erinsatmosphere/LABURL)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/erinsatmosphere/LABURL)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/erinsatmosphere/LABURL)
+  - [ENSO-Hurricane Analysis]([https://github.com/erinsatmosphere/ENSO-Hurricanes])
 
 <h2> Connect with me:</h2>
 
