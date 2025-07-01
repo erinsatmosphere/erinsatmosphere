@@ -4,6 +4,10 @@
 🌎 Interested in data science for atmospheric, oceanographic, and environmental sciences<br>
 🐟 Passionate about climate change impacts on marine ecosystems<br>
 
+![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+https://img.shields.io/badge/LinkedIn?style=flat&logoColor=%230077B5&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ferinwelchc%2F
+
+
 #### My languages, syntax, and platforms
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,autocad,bash,discord,figma,fortran,github,matlab,pycharm,py,r,vscode)](https://skillicons.dev)
@@ -27,5 +31,5 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[instagram]: https://www.instagram.com/joshmadakor/
+[github]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
