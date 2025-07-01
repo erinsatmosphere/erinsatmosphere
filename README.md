@@ -7,9 +7,15 @@
 #### Data Science Projects:
 
 - <b>Python</b>
-  - [ENSO-Hurricane Analysis](https://github.com/erinsatmosphere/ENSO-Hurricanes)
+  - [ENSO impacts on Pacific hurricane climatology](https://github.com/erinsatmosphere/ENSO-Hurricanes)
+  - [Hawaii Ocean Time Series (HOTS) Carbon Dioxide Project](https://github.com/erinsatmosphere/HOTS-Analysis)
+  - [Global Earhquake Distribution Analysis](https://github.com/erinsatmosphere/Earthquake-Analysis)
 
-<h2> Connect with me:</h2>
+- <b>R</b>
+  - [ENSO Teleconnections in the Amazon](https://github.com/erinsatmosphere/ENSO-Amazon)
+
+
+#### Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
