@@ -4,8 +4,7 @@
 🌎 Interested in data science for atmospheric, oceanographic, and environmental sciences<br>
 🐟 Passionate about climate change impacts on marine ecosystems<br>
 
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
-https://img.shields.io/badge/LinkedIn?style=flat&logoColor=%230077B5&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ferinwelchc%2F
+![linkedin](https://img.shields.io/badge/LinkedIn?style=flat&logoColor=%230077B5&logoSize=auto&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Ferinwelchc%2F)
 
 
 #### My languages, syntax, and platforms
