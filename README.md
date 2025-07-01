@@ -7,7 +7,7 @@
 #### Data Science Projects:
 
 - <b>Python</b>
-  - [ENSO-Hurricane Analysis]([https://github.com/erinsatmosphere/ENSO-Hurricanes])
+  - [ENSO-Hurricane Analysis](https://github.com/erinsatmosphere/ENSO-Hurricanes)
 
 <h2> Connect with me:</h2>
 
