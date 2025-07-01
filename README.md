@@ -4,6 +4,10 @@
 🌎 Interested in data science for atmospheric, oceanographic, and environmental sciences<br>
 🐟 Passionate about climate change impacts on marine ecosystems<br>
 
+#### My languages, syntax, and platforms
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
 #### Data Science Projects:
 
 - <b>Python</b>
