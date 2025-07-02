@@ -49,7 +49,7 @@
 
 
 
-#### Data Science Projects:
+#### Public Data Science Projects:
 
 - <b>Python</b>
   - [ENSO impacts on Pacific hurricane climatology](https://github.com/erinsatmosphere/ENSO-Hurricanes)
