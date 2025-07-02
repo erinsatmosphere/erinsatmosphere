@@ -26,7 +26,8 @@
 ![My Skills](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![My Skills](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
-![My Skills](https://img.shields.io/badge/Hadoop-v3.3.1-blue?style=flat-square&logo=hadoop)
+![My Skills](https://img.shields.io/badge/Hadoop-Enabled-green)
+
 #### Data Science Projects:
 
 - <b>Python</b>
