@@ -31,7 +31,7 @@
 ![My Skills](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-![My Skills](https://img.shields.io/badge/AutoCAD-0696d7?style=for-the-badge&logo=slack&logoColor=white)
+![My Skills](https://img.shields.io/badge/AutoCAD-0696d7?style=for-the-badge&logo=AutoCAD&logoColor=white)
 
 
 
