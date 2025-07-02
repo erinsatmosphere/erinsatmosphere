@@ -18,7 +18,6 @@
 - <b>R</b>
   - [ENSO Teleconnections in the Amazon](https://github.com/erinsatmosphere/ENSO-Amazon)
 
-
 #### Connect with me
 
 Feel free to connect through the following channels:
