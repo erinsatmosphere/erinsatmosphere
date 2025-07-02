@@ -14,7 +14,7 @@ pycharm
 ![My Skills](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
 ![My Skills](https://img.shields.io/badge/fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-![My Skills](https://img.shields.io/badge/Hadoop-FFD43B?style=for-the-badge&logo=Hadoop&logoColor=blue)
+![My Skills](https://img.shields.io/badge/Hadoop-F1F100?style=for-the-badge&logo=Hadoop&logoColor=blue)
 ![My Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 ![My Skills](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
