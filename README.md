@@ -24,4 +24,4 @@
 Feel free to connect through the following channels:
 
 *   **Email:** erinwelchc@gmail.com
-*   **LinkedIn:** [erinwelchc]([https://www.linkedin.com/in/erinwelchc])
+*   **LinkedIn:** [erinwelchc](https://www.linkedin.com/in/erinwelchc)
