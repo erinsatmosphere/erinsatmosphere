@@ -39,6 +39,7 @@ pycharm
 ![My Skills](https://img.shields.io/badge/XQuarz-CC5500?style=for-the-badge&logo=XQuarz&logoColor=white)
 ![My Skills](https://img.shields.io/badge/IDLE-FFD43B?style=for-the-badge&logo=IDLE&logoColor=blue)
 ![My Skills](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)
+![My Skills](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 
 #### Data Science Projects:
 
