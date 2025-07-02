@@ -66,4 +66,4 @@ Feel free to connect through the following channels:
 *   **Email:** erinwelchc@gmail.com
 *   **LinkedIn:** [erinwelchc](https://www.linkedin.com/in/erinwelchc)
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/erinwelchc)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erinwelchc)
