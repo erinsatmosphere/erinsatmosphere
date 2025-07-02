@@ -27,7 +27,7 @@
 ![My Skills](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Hadoop-FFD43B?style=for-the-badge&logo=Hadoop&logoColor=blue)
-![MATLAB](https://img.shields.io/badge/Language-MATLAB-B12228?logo=matlab&logoColor=white)
+![My Skills](https://img.shields.io/badge/MATLAB-B12228?style=for-the-badge&logo=matlab&logoColor=white)
 
 #### Data Science Projects:
 
