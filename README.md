@@ -27,6 +27,7 @@
 ![My Skills](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=Zsh&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Hadoop-FFD43B?style=for-the-badge&logo=Hadoop&logoColor=blue)
+![MATLAB](https://img.shields.io/badge/Language-MATLAB-B12228?logo=matlab&logoColor=white)
 
 #### Data Science Projects:
 
@@ -44,10 +45,3 @@ Feel free to connect through the following channels:
 
 *   **Email:** erinwelchc@gmail.com
 *   **LinkedIn:** [erinwelchc](https://www.linkedin.com/in/erinwelchc)
-
-<head>
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="erinwelchc" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/erinwelchc?trk=profile-badge">Erin Welch</a></div>
-
-</head>
