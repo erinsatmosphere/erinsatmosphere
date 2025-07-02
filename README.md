@@ -59,9 +59,7 @@
 - <b>R</b>
   - [ENSO Teleconnections in the Amazon](https://github.com/erinsatmosphere/ENSO-Amazon)
 
-#### Connect with me
-
-Feel free to connect through the following channels:
+#### Feel free to connect through the following channels:
 
 *   **Email:** erinwelchc@gmail.com
 *   **LinkedIn:** [erinwelchc](https://www.linkedin.com/in/erinwelchc)
