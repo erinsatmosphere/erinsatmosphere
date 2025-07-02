@@ -41,6 +41,7 @@
 ![My Skills](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)
 ![My Skills](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erinwelchc)
 
 
 ![My Skills](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -64,5 +65,3 @@ Feel free to connect through the following channels:
 
 *   **Email:** erinwelchc@gmail.com
 *   **LinkedIn:** [erinwelchc](https://www.linkedin.com/in/erinwelchc)
-
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erinwelchc)
