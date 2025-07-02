@@ -4,7 +4,7 @@
 🌎 Interested in data science for atmospheric, oceanographic, and environmental sciences<br>
 🐟 Passionate about climate change impacts on marine ecosystems<br>
 
-#### My languages, syntax, and platforms
+#### My languages, syntax, and platforms:
 
 ![My Skills](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![My Skills](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
