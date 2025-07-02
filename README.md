@@ -5,8 +5,7 @@
 🐟 Passionate about climate change impacts on marine ecosystems<br>
 
 #### My languages, syntax, and platforms
-
-[![My Skills](https://skillicons.dev/icons?i=,,bash,discord,figma,fortran,github,matlab,pycharm,py,r,vscode)](https://skillicons.dev)
+pycharm
 
 ![My Skills](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![My Skills](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -32,7 +31,10 @@
 ![My Skills](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ![My Skills](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
+![My Skills](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![My Skills](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white)
+![My Skills](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![My Skills](https://img.shields.io/badge/PyCharm-1672B6.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
 
