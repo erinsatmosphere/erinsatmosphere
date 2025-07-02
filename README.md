@@ -6,7 +6,7 @@
 
 #### My languages, syntax, and platforms
 
-[![My Skills](https://skillicons.dev/icons?i=anaconda,autocad,bash,discord,figma,fortran,github,matlab,pycharm,py,r,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=,,bash,discord,figma,fortran,github,matlab,pycharm,py,r,vscode)](https://skillicons.dev)
 
 ![My Skills](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![My Skills](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -31,7 +31,7 @@
 ![My Skills](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-![My Skills](https://img.shields.io/badge/AutoCAD-0696d7?style=for-the-badge&logo=AutoCAD&logoColor=white)
+![My Skills](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 
 
