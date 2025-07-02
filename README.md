@@ -8,7 +8,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=anaconda,autocad,bash,discord,figma,fortran,github,matlab,pycharm,py,r,vscode)](https://skillicons.dev)
 
-[![My Skills](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![My Skills](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
 
 #### Data Science Projects:
 
