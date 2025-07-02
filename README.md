@@ -5,7 +5,6 @@
 🐟 Passionate about climate change impacts on marine ecosystems<br>
 
 #### My languages, syntax, and platforms
-pycharm
 
 ![My Skills](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![My Skills](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -66,4 +65,4 @@ Feel free to connect through the following channels:
 *   **Email:** erinwelchc@gmail.com
 *   **LinkedIn:** [erinwelchc](https://www.linkedin.com/in/erinwelchc)
 
-[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erinwelchc)
+[![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erinwelchc)
