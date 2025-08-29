@@ -10,15 +10,6 @@
 ![My Skills](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![My Skills](https://img.shields.io/badge/MATLAB-B12228?style=for-the-badge&logo=matlab&logoColor=white)
 
-![My Skills](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![My Skills](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
-![My Skills](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-![My Skills](https://img.shields.io/badge/fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
-![My Skills](https://img.shields.io/badge/Hadoop-F1F100?style=for-the-badge&logo=Hadoop&logoColor=blue)
-![My Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![My Skills](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![My Skills](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
 ![My Skills](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=folium&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![My Skills](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
@@ -40,13 +31,7 @@
 ![My Skills](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![My Skills](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=)
 ![My Skills](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-![My Skills](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/erinwelchc)
-
-
-![My Skills](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![My Skills](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-
 
 
 #### Public Data Science Projects:
